@@ -1,7 +1,7 @@
-name: Deckboard CallUrl
-package: deckboard-callurl
+name: Firebase push
+package: deckboard-callurl-srsergio
 version: 1.0.0
-description: Call Url without open browser in Deckboard
-author: Golpilolz
+description: Push Data to server
+author: srSergio
 license: MIT
 repository: "https://github.com/golpilolz/deckboard-callurl"
